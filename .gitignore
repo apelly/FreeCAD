@@ -35,3 +35,4 @@ OpenSCAD_rc.py
 /\.idea/
 .tags
 tags
+/patches/*
